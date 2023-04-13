@@ -1,7 +1,7 @@
 # Investigate-Dataset-NoShowAppointment
 This dataset contains information of 100k medical appointments in Brazil and is focused on the question of 
 - Whether or not patients show up for their appointment.
-- What factors determines if patient showup for appointments
+- Which factors determines if patient showup for appointments
 - Does gender influence patient showing up for appointments
 - Does having patient schlolarship determines if patient show up or not
 
@@ -13,6 +13,9 @@ The following are initial columns in the dataset.
 - Scholarship - Indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
 - SMS_recieved - Indicates message sent to the patient
 - No_show - Indicates if the patients was present for appointment or not. No (means patient showed up), YES (means patient did not show up)
+
+
+*** Insights
 
 Based on the findings generated from the research questions, and taking into consideration the limitations, it was found out that
 - Out of the total number of patients which was recorded at 110526 after cleaning of the data, 22319 patients did not show up for their appointments
